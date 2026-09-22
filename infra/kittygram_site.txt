@@ -1,6 +1,5 @@
-IP: 130.193.40.153;
-password: 1997;
-name_taski: https://yerevan-taski.hopto.org;
-name_kittygram: https://yerevan-kittygram.hopto.org;
-login: yc-user;
-passphrase: NRjeSf;
+IP: 158.160.237.230;
+name_taski: https://taski.158-160-237-230.sslip.io;
+name_kittygram: https://kittygram.158-160-237-230.sslip.io;
+login: ubuntu;
+password: 12345678;
